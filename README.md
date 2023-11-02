@@ -34,4 +34,4 @@ Após criar o Wireframe, é importante testá-lo com usuários para obter feedba
 A criação de um Wireframe de média fidelidade é uma etapa importante no processo de design de um produto digital. Ao aplicar os conceitos e leis de User Experience, é possível criar um protótipo que seja fácil de usar e acessível a todos os usuários.
 
 Link do arquivo feito detro do canva.
-https://www.canva.com/design/DAFyX6KDySE/fGNVEN3W4cu3F-M1MuJjSQ/view?utm_content=DAFyX6KDySE&utm_campaign=designshare&utm_medium=link&utm_source=editor
+https://www.canva.com/design/DAFzBHhbtR4/nOnrHkEM2GCLTPjuxQnmBA/view?utm_content=DAFzBHhbtR4&utm_campaign=designshare&utm_medium=link&utm_source=editor
